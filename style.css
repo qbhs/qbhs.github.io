@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 
-ul {
+.topbar-ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -13,11 +13,11 @@ ul {
     width: 100%;
 }
 
-li {
+.topbar-li {
     float: left;
 }
 
-li a {
+.topbar-li-a {
     display: block;
     color: white;
     text-align: center;
@@ -25,6 +25,6 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.topbar-li-a:hover {
     background-color: #111;
 }
